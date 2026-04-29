@@ -1,0 +1,11 @@
+# IDE
+.idea/
+*.iml
+
+# Compiled files
+*.class
+out/
+
+# History and logs
+History/
+mainCalculator/History/
